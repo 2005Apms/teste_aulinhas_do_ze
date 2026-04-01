@@ -1,1 +1,1 @@
-Alterando o texto pela segunda vez para tentar forçar um conflito
+3° tentariva - Simulando um conflito
