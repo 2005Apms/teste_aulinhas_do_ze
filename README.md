@@ -1,1 +1,3 @@
-3° tentariva - Simulando um conflito
+<<<<<<< HEAD
+Corrigindo o erroX
+>>>>>>> branch-errada-2
