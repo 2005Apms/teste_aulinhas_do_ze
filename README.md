@@ -1,1 +1,1 @@
-Alterando o texto pela segunda vez para tentar forçar um conflito
+Alterando o texto pela terceira vez
