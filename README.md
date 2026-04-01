@@ -1,1 +1,1 @@
-Texto alterado na branch-errada
+2° tentativa de simular um conflito
